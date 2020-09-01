@@ -157,6 +157,52 @@ This section full of great code and projects related to processing optical satel
 
 R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource
 
+[Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html)
+
+[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+
+[R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/)
+
+This workshop is designed for the attendance of FOSS4G 2019. So basics knowledge in GIS is expected (simple features, projections and CRS, geometrical operations, etc.).
+
+[Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny](https://www.paulamoraga.com/book-geospatial/)
+
+The book covers the following topics:
+- Types of spatial data and coordinate reference systems,
+- Manipulating and transforming point, areal, and raster data,
+- Retrieving high-resolution spatially referenced environmental data,
+- Fitting and interpreting Bayesian spatial and spatio-temporal models with the R-INLA package,
+- Modeling disease risk and quantifying risk factors in different settings,
+- Creating interactive and static visualizations such as disease risk maps and time plots,
+- Creating reproducible reports with R Markdown,
+- Developing dashboards with flexdashboard,
+- Building interactive Shiny web applications.
+
+[Spatial Data Science](https://keen-swartz-3146c4.netlify.app)
+Edzer Pebesma, Roger Bivand
+This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis
+
+[CASA0005 Geographic Information Systems and Science](https://andrewmaclachlan.github.io/CASA0005repo/index.html)
+
+After having taking this module, you should be able to:
+
+- Develop a working knowledge of ArcMap, QGIS and R to support the application of GI Science techniques
+
+- Visualise geographic information through producing appropriate maps to high cartographic standards
+
+- Carry out spatial data management tasks (joining attribute to geometry data, cleaning data, converting between file formats and spatial reference systems)
+
+- Interpret data and apply relevant spatial analyses (e.g. auto correlation/hot spot analysis, areal interpolation, point in polygon/buffer analysis, spatial statistical analysis) to answer a variety of spatial problems
+
+- Explain and evaluate common issues with geographic data such as representation and uncertainty
+
+- Apply and critique (spatial) statistical analysis techniques to infer relationships between spatial phenomena
+
+- Experience the diversity of the global spatial data landscape and evaluate the relative drawbacks and merits of different spatial datasets
+
+[Modern Geospatial Data Analysis with R](http://files.zevross.com/workshops/spatial/slides/html/0-deck-list.html)
+
+A workshop by Zev Ross, ZevRoss Spatial Analysis, delivered at the RStudio conference 2020
 - [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
   - [Remote Sensing analysis with R](https://rspatial.org/raster/rs/index.html) - Builds on above R-Spatial
 - [GDAL Cubes](https://cran.r-project.org/web/packages/gdalcubes/index.html) - Earth Observation Data Cubes from Satellite Image Collections. Also [here on github](https://github.com/appelmar/gdalcubes_R)
