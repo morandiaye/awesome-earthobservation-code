@@ -157,6 +157,8 @@ This section full of great code and projects related to processing optical satel
 
 R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource
 
+- [Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html) Lean step by step spatial data science with R
+- [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) This workshop is designed for the attendance of FOSS4G 2019. So basics knowledge in GIS is expected (simple features, projections and CRS, geometrical operations, etc.).
 - [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
   - [Remote Sensing analysis with R](https://rspatial.org/raster/rs/index.html) - Builds on above R-Spatial
 - [GDAL Cubes](https://cran.r-project.org/web/packages/gdalcubes/index.html) - Earth Observation Data Cubes from Satellite Image Collections. Also [here on github](https://github.com/appelmar/gdalcubes_R)
